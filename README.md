@@ -20,11 +20,6 @@ In the year 2000, in order to generate publicity for the book "Uncle Petros and 
 ## About the Conjecture
 Goldbach's Conjecture states that every even integer greater than 2 can be expressed as the sum of two prime numbers. In mathematical terms, if `n` is an even integer `> 2`, then there exist primes `p` and `q` such that `n = p + q`. Despite extensive computational verification for large numbers, a rigorous proof remains elusive.
 
-## Repository Structure
-- **goldbach.hs**: Contains source code for the implementation of Goldbach's Conjecture.
-- **LICENSE**: The license governing the use and distribution of code and materials in this repository.
-- **README.md**: The main documentation file providing an overview of the project.
-
 ## Usage
 To use the code in this repository, simply clone the repository to your local machine and explore the contents.
 
