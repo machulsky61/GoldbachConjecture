@@ -28,16 +28,24 @@ Goldbach's Conjecture states that every even integer greater than 2 can be expre
 To use the code in this repository, simply clone the repository to your local machine and explore the contents.
 
 ## Documentation
-`satisfaceGoldbach :: Integer -> Bool`
+```haskell
+satisfaceGoldbach :: Integer -> Bool
+```
 >Takes a natural number `n` and returns `True` if and only if `n` is even, greater than 2, and the sum of two prime numbers, or `False` otherwise.
 
-`verificarConjeturaHasta :: Integer -> Bool`
+```haskell
+verificarConjeturaHasta :: Integer -> Bool
+```
 >Takes a natural number `n` greater than 2 and returns `True` if and only if the conjecture is true for all even natural numbers greater than 2 and less than or equal to `n`, or `False` otherwise.
 
-`descomposicionEnPrimos :: Integer -> (Integer,Integer)`
+```haskell
+descomposicionEnPrimos :: Integer -> (Integer,Integer)
+```
 >Takes a natural number `n` greater than 2 and returns an ordered pair `(a,b)` of prime numbers such that `a + b == n`.
 
-`numeroDeDescomposiciones :: Integer -> Integer`
+```haskell
+numeroDeDescomposiciones :: Integer -> Integer
+```
 >Takes a natural number `n` greater than 2 and returns the number of ordered pairs `(a, b)` of prime numbers such that `a + b == n`.
 
 ## License
