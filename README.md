@@ -18,6 +18,7 @@ In this project, we propose to write Haskell functions to test the conjecture, a
 ## Introduction
 The Goldbach's Conjecture has fascinated mathematicians for centuries due to its simplicity and potential implications for prime number theory.
 In the year 2000, in order to generate publicity for the book "Uncle Petros and Goldbach's Conjecture" by Apostolos Doxiadis, the British publisher Tony Faber offered a prize of one million dollars to whoever proved the conjecture. Nobody has claimed the prize yet...
+
 ![Uncle Petros and Goldbach's Conjecture](https://upload.wikimedia.org/wikipedia/en/d/dc/Uncle_Petros_and_Goldbach%27s_Conjecture_%28book_cover%29.gif)
 
 ## About the Conjecture
