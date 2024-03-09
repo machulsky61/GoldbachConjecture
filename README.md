@@ -6,7 +6,9 @@
 ## Overview
 
 The Goldbach's Conjecture is one of the oldest unsolved problems in number theory. Proposed by Christian Goldbach in a letter to Euler in 1742, it suggests that every even integer greater than 2 can be expressed as the sum of two prime numbers. Despite numerous attempts by mathematicians over the centuries, a proof for this conjecture remains elusive.
+
 In this project, we propose to write Haskell functions to test the conjecture, and who knows, maybe from there a proof will emerge that allows us to become millionaires.
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -19,11 +21,12 @@ In this project, we propose to write Haskell functions to test the conjecture, a
 The Goldbach's Conjecture has fascinated mathematicians for centuries due to its simplicity and potential implications for prime number theory.
 In the year 2000, in order to generate publicity for the book "Uncle Petros and Goldbach's Conjecture" by Apostolos Doxiadis, the British publisher Tony Faber offered a prize of one million dollars to whoever proved the conjecture. Nobody has claimed the prize yet...
 
-![Uncle Petros and Goldbach's Conjecture](https://upload.wikimedia.org/wikipedia/en/d/dc/Uncle_Petros_and_Goldbach%27s_Conjecture_%28book_cover%29.gif)
+![Uncle Petros and Goldbach's Conjecture](https://upload.wikimedia.org/wikipedia/en/d/dc/Uncle_Petros_and_Goldbach%27s_Conjecture_%28book_cover%29.gif) 
 
 ## About the Conjecture
 Goldbach's Conjecture states that every even integer greater than 2 can be expressed as the sum of two prime numbers. In mathematical terms, if `n` is an even integer `> 2`, then there exist primes `p` and `q` such that `n = p + q`. Despite extensive computational verification for large numbers, a rigorous proof remains elusive.
 ![xkcd](https://imgs.xkcd.com/comics/goldbach_conjectures.png)
+
 
 ## Usage
 To use the code in this repository, simply clone the repository to your local machine and explore the contents.
